@@ -10,7 +10,7 @@ A repo-by-repo build from fundamentals to a full pipelined processor:
 
 - [x] **01 - Basic Logic Gates** — Verilog implementation, testbenches, and waveform simulation for all 7 basic gates
 - [x] **02 - Combinational Circuits** — Adders, subtractors, MUX, decoder, encoder, comparator, and a 16-bit ALU
-- [ ] **03 - Sequential Circuits** — Flip-flops, registers, counters, shift registers, and synchronous SRAM *(in progress)*
+- [x] **03 - Sequential Circuits** — Flip-flops, registers, counters, shift registers, and synchronous SRAM *(in progress)*
 - [ ] 04-08 — Building toward a 16-bit pipelined RISC processor
 
 ## Currently
