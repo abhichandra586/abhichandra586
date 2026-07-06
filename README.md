@@ -57,7 +57,7 @@ All major sequential building blocks: D/T/JK/SR flip-flops, 4-bit and 16-bit reg
 
 ---
 
-### 🔷 [04 — Finite State Machines](https://github.com/abhichandra586/04-finite-state-machines) *(In Progress)*
+### 🔷 [04 — Finite State Machines](https://github.com/abhichandra586/04-finite-state-machines)
 Moore and Mealy FSMs, Traffic Light Controller, 1011 Sequence Detector, UART Transmitter, UART Receiver, SPI Master, and Debounce Circuit — all in Verilog with simulation-verified waveforms.
 `Verilog` · `Icarus Verilog` · `GTKWave`
 
