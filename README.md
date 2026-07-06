@@ -29,7 +29,7 @@ I'm a 3rd-year B.Tech ECE student (CGPA: 9.68) specialising in RTL design and di
 | 01 | [basic-logic-gates](https://github.com/abhichandra586/01-basic-logic-gates) | ✅ Complete | AND, OR, NOT, NAND, NOR, XOR, XNOR — with testbenches and GTKWave waveforms |
 | 02 | [combinational-circuits](https://github.com/abhichandra586/02-combinational-circuits) | ✅ Complete | Adders, MUX, Decoder, Encoder, Comparator, 16-bit ALU — Yosys synthesis + GLS |
 | 03 | [sequential-circuits](https://github.com/abhichandra586/03-sequential-circuits) | ✅ Complete | Flip-Flops, Registers, Counters, Shift Registers, Synchronous SRAM 256×16 |
-| 04 | [finite-state-machines](https://github.com/abhichandra586/04-finite-state-machines) | 🔨 In Progress | Moore FSM, Mealy FSM, Traffic Light Controller, 1011 Sequence Detector, UART, SPI, Debounce |
+| 04 | [finite-state-machines](https://github.com/abhichandra586/04-finite-state-machines) | ✅ Complete | Moore FSM, Mealy FSM, Traffic Light Controller, 1011 Sequence Detector, UART, SPI, Debounce |
 | 05 | 05-alu-16bit | ⏳ Upcoming | SystemVerilog ALU + Formal Assertions + Synthesis |
 | 06 | 06-processor-components | ⏳ Upcoming | PC, Control Unit, Register File, Hazard Unit |
 | 07 | 07-risc16-pipelined-processor | ⏳ Upcoming | Complete 5-stage pipelined RISC processor |
